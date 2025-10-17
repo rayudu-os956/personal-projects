@@ -1,0 +1,14 @@
+/Users/rayudugudipalli/Desktop/Projects/Bankingapplication/RayuduBank/obj/Debug/net9.0/RayuduBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/Projects/Bankingapplication/RayuduBank/obj/Debug/net9.0/RayuduBank.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/Projects/Bankingapplication/RayuduBank/obj/Debug/net9.0/RayuduBank.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/Projects/Bankingapplication/RayuduBank/obj/Debug/net9.0/RayuduBank.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/Projects/Bankingapplication/RayuduBank/bin/Debug/net9.0/RayuduBank
+/Users/rayudugudipalli/Desktop/Projects/Bankingapplication/RayuduBank/bin/Debug/net9.0/RayuduBank.deps.json
+/Users/rayudugudipalli/Desktop/Projects/Bankingapplication/RayuduBank/bin/Debug/net9.0/RayuduBank.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/Projects/Bankingapplication/RayuduBank/bin/Debug/net9.0/RayuduBank.dll
+/Users/rayudugudipalli/Desktop/Projects/Bankingapplication/RayuduBank/bin/Debug/net9.0/RayuduBank.pdb
+/Users/rayudugudipalli/Desktop/Projects/Bankingapplication/RayuduBank/obj/Debug/net9.0/RayuduBank.dll
+/Users/rayudugudipalli/Desktop/Projects/Bankingapplication/RayuduBank/obj/Debug/net9.0/refint/RayuduBank.dll
+/Users/rayudugudipalli/Desktop/Projects/Bankingapplication/RayuduBank/obj/Debug/net9.0/RayuduBank.pdb
+/Users/rayudugudipalli/Desktop/Projects/Bankingapplication/RayuduBank/obj/Debug/net9.0/RayuduBank.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/Projects/Bankingapplication/RayuduBank/obj/Debug/net9.0/ref/RayuduBank.dll
