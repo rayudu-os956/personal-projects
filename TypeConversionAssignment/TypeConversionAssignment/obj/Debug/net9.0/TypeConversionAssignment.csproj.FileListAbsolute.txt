@@ -1,0 +1,15 @@
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/bin/Debug/net9.0/TypeConversionAssignment
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/bin/Debug/net9.0/TypeConversionAssignment.deps.json
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/bin/Debug/net9.0/TypeConversionAssignment.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/bin/Debug/net9.0/TypeConversionAssignment.dll
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/bin/Debug/net9.0/TypeConversionAssignment.pdb
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/obj/Debug/net9.0/TypeConversionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/obj/Debug/net9.0/TypeConversionAssignment.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/obj/Debug/net9.0/TypeConversionAssignment.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/obj/Debug/net9.0/TypeConversionAssignment.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/obj/Debug/net9.0/TypeConversionAssignment.sourcelink.json
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/obj/Debug/net9.0/TypeConversionAssignment.dll
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/obj/Debug/net9.0/refint/TypeConversionAssignment.dll
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/obj/Debug/net9.0/TypeConversionAssignment.pdb
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/obj/Debug/net9.0/TypeConversionAssignment.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/Projects/TypeConversionAssignment/TypeConversionAssignment/obj/Debug/net9.0/ref/TypeConversionAssignment.dll
