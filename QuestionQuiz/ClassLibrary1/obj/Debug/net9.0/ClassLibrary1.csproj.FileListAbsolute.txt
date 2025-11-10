@@ -1,0 +1,12 @@
+/Users/rayudugudipalli/Desktop/Projects/QuestionQuiz/ClassLibrary1/bin/Debug/net9.0/ClassLibrary1.deps.json
+/Users/rayudugudipalli/Desktop/Projects/QuestionQuiz/ClassLibrary1/bin/Debug/net9.0/ClassLibrary1.dll
+/Users/rayudugudipalli/Desktop/Projects/QuestionQuiz/ClassLibrary1/bin/Debug/net9.0/ClassLibrary1.pdb
+/Users/rayudugudipalli/Desktop/Projects/QuestionQuiz/ClassLibrary1/obj/Debug/net9.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/Projects/QuestionQuiz/ClassLibrary1/obj/Debug/net9.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/Projects/QuestionQuiz/ClassLibrary1/obj/Debug/net9.0/ClassLibrary1.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/Projects/QuestionQuiz/ClassLibrary1/obj/Debug/net9.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/Projects/QuestionQuiz/ClassLibrary1/obj/Debug/net9.0/ClassLibrary1.sourcelink.json
+/Users/rayudugudipalli/Desktop/Projects/QuestionQuiz/ClassLibrary1/obj/Debug/net9.0/ClassLibrary1.dll
+/Users/rayudugudipalli/Desktop/Projects/QuestionQuiz/ClassLibrary1/obj/Debug/net9.0/refint/ClassLibrary1.dll
+/Users/rayudugudipalli/Desktop/Projects/QuestionQuiz/ClassLibrary1/obj/Debug/net9.0/ClassLibrary1.pdb
+/Users/rayudugudipalli/Desktop/Projects/QuestionQuiz/ClassLibrary1/obj/Debug/net9.0/ref/ClassLibrary1.dll
