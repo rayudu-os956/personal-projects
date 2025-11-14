@@ -7,34 +7,41 @@
    {
     Artist = "The Beatles",
     Title = "Abbey Road",
-    Borrower = "Rayudu"
+    NumberOfTracks = 11,
    };
 
    // Print information about the CD
    cd.Print();
+   cd.Borrow("Rayudu");
+   cd.Return();
+
 
    // Create a DVD object
    DVD dvd = new DVD
    {
     Title = "The Shawshank Redemption",
     Director = "Frank Darabont",
-    Borrower = "Mook"
+    LengthInMinutes = 143,
    };
 
    // Print information about the DVD
    dvd.Print();
+   dvd.Borrow("Mook");
+   dvd.Return();
 
    // Create a Book object
-   book book = new book
-   {
-    Author = "J.K. Rowling",
-    Title = "Harry Potter and the Philosopher's Stone",
-    ISBN = "9780747532743",
-    Borrower = "Mook"
-   };
+        book book = new book
+        {
+            Author = "George Orwell",
+            Title = "1984",
+            ISBN = "9780451524935"
+        };
+
 
    // Print information about the book
-   book.Print();
+        book.Print();
+        book.Borrow("Diiory");
+        book.Return();
 
   }
  }
