@@ -1,4 +1,5 @@
 # personal-projects
  some assignments while learning course 
  
-starrting with console apps-all
+starrting with console apps-all made
+
