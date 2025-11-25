@@ -1,5 +1,5 @@
 # personal-projects
  some assignments while learning course 
  
-starrting with console apps-all made
+starrting with console apps-all made using c#
 
