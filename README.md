@@ -3,5 +3,3 @@
  
 starrting with console apps-all made using c#
 
-hd
-pair 
