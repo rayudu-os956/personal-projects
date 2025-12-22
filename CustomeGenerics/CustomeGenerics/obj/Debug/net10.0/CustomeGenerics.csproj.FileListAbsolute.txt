@@ -1,0 +1,15 @@
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/bin/Debug/net10.0/CustomeGenerics
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/bin/Debug/net10.0/CustomeGenerics.deps.json
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/bin/Debug/net10.0/CustomeGenerics.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/bin/Debug/net10.0/CustomeGenerics.dll
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/bin/Debug/net10.0/CustomeGenerics.pdb
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/obj/Debug/net10.0/CustomeGenerics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/obj/Debug/net10.0/CustomeGenerics.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/obj/Debug/net10.0/CustomeGenerics.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/obj/Debug/net10.0/CustomeGenerics.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/obj/Debug/net10.0/CustomeGenerics.sourcelink.json
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/obj/Debug/net10.0/CustomeGenerics.dll
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/obj/Debug/net10.0/refint/CustomeGenerics.dll
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/obj/Debug/net10.0/CustomeGenerics.pdb
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/obj/Debug/net10.0/CustomeGenerics.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/Projects/CustomeGenerics/CustomeGenerics/obj/Debug/net10.0/ref/CustomeGenerics.dll
